@@ -38,6 +38,6 @@ public class produto {
     }
 
     public void exibirProduto() {
-        System.out.println("Nome: " + nome + " | Tipo: " + tipo + "| Cor: " + " | Preço: R$" + preco + " | Estoque: " + quantidade);
+        System.out.println("Nome: " + nome + " | Tipo: " + tipo + " | Cor: " + cor + " | Preço: R$" + preco + " | Estoque: " + quantidade);
     }
-}
+}     
